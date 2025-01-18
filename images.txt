@@ -1,1 +1,1 @@
-bitnami/etcd
+nacos/nacos-server
